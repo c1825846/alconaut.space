@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb://127.0.0.1:27017/alconaut",
+  "uploadsPath": "C:\\Users\\c1825\\WebstormProjects\\alconaut.space\\uploads"
+}
